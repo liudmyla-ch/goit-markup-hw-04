@@ -229,7 +229,7 @@ header {
   display: flex;
 }
 .features-item {
-  flex-basis: calc((100%-90px) / 4);
+  flex-basis: calc((100%-90px)/4);
   margin-right: 30px;
 }
 .features-item:last-child {
@@ -250,7 +250,6 @@ header {
   letter-spacing: 0.03em;
 }
 .features-icon {
-  width: 270px;
   height: 120px;
   background-color: var(--background-gray-color);
   display: flex;
